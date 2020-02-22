@@ -12,6 +12,7 @@
 #include "fichier_concour/suppattente.h"
 #include "fichier_concour/affichemerite.h"
 #include "fichier_concour/rechercher.h"
+//main
 
 
       /* ***************************************************************************************
